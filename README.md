@@ -1,5 +1,5 @@
-# peapod-hackthon
-Hackthon Ideas in PeaPod
+# peapod-hackathon
+Hackathon Ideas in PeaPod
 
 ## List of ideas 
 
