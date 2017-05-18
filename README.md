@@ -32,7 +32,7 @@ Hackathon Ideas in Peapod
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars2.githubusercontent.com/u/3869412?v=3" width="100px;"/><br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/Xinjiang Shao/Peapod Hackathon/commits?author=jfmengels "Documentation") |
+| [<img src="https://avatars2.githubusercontent.com/u/3869412?v=3" width="100px;"/><br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/soleo/peapod-hackathon/commits?author=jfmengels "Documentation") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
