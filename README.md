@@ -9,7 +9,7 @@ Hackathon Ideas in Peapod
 - First Hackathon 
     - Date: May 24th, 2017 Wednesday 5:00 PM - 8:00 PM
     - Location: PPL 9th Floor, The Loop
-    - What and How: Pick any of ideas below and your own ideas, and hack it in 3 hours window, and try to demo it at the end of Hackathon. No prizes, and no pressures. Just have fun to show off your skills/ideas.  
+    - What and How: Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try to demo it at the end of the Hackathon. No prizes, and no pressures. Just have fun , and show off your skills/ideas.  
 
 ## List of ideas
 
