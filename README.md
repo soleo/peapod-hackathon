@@ -8,7 +8,7 @@ Hackathon Ideas in Peapod
 
 - First Hackathon 
     - Date: May 24th, 2017 Wednesday 5:00 PM - 8:00 PM
-    - Location: PPL 9th Floor, The Loop
+    - Location: [Peapod Propulsion Lab 9th Floor, The Loop](https://foursquare.com/v/peapod-propulsion-labs/526aba5e11d27edb8ead6088)
     - What and How: Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try to demo it at the end of the Hackathon. No prizes, and no pressures. Just have fun , and show off your skills/ideas.  
 
 ## List of ideas
