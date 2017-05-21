@@ -61,4 +61,4 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ## What is Peapod?
 
-[Video Intro](http://veracitycolab.wistia.com/medias/uj6rzvjnyg)
+<p><a href="https://veracitycolab.wistia.com/medias/uj6rzvjnyg?wvideo=uj6rzvjnyg"><img src="https://embedwistia-a.akamaihd.net/deliveries/12bc6c975b30dd0f29afca88a932d9f8438eb8ff.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://veracitycolab.wistia.com/medias/uj6rzvjnyg?wvideo=uj6rzvjnyg">PEA1501V001_PeapodApp_V01_Final_NoIntro_052815_720p - VeracityColab</a></p>
