@@ -34,7 +34,17 @@ Hackathon Ideas in Peapod
 - [ ] Peapod ordering server (another way to integrate Peapod stuff)
 - [ ] Kitchen status service (has something gone bad, etc.)
 
+## Open Collective 
+
+we use [opencollective](https://opencollective.com/learn-more) disclose our financial records. Check it our on [https://opencollective.com/peapod-hackathon](https://opencollective.com/peapod-hackathon).
+
 ## Contributors
+
+We are looking for hackers, designers and foodies to contribute to our hackathon.
+
+- Hackers: Building cool CLI, Raspberry PI apps
+- Designers: Logo, doodle, UX/UI improvements etc.
+- Foodies: Chatting about what features you itch most in food related apps
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
