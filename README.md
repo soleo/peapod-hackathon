@@ -14,6 +14,7 @@ Hackathon Ideas in Peapod
 ## List of ideas
 
 - [ ] PodProd Wi-Fi configuration on Raspberry PI
+- [ ] Alfred workflow for initiating deployments
 - [ ] Driver's real time routing visualization from Road Net
 - [ ] Custom dashboard for splunk logs on Raspberry PI
 - [ ] Deploy automation scripts for Release Notes, and post to Slack and related mail lists
@@ -36,15 +37,17 @@ Hackathon Ideas in Peapod
 
 ## Open Collective 
 
-we use [opencollective](https://opencollective.com/learn-more) disclose our financial records. Check it our on [https://opencollective.com/peapod-hackathon](https://opencollective.com/peapod-hackathon).
+we use [opencollective](https://opencollective.com/learn-more) to disclose all our financial records. Check it our on [https://opencollective.com/peapod-hackathon](https://opencollective.com/peapod-hackathon).
 
-## Contributors
+## How to contribute
 
 We are looking for hackers, designers and foodies to contribute to our hackathon.
 
 - Hackers: Building cool CLI, Raspberry PI apps
 - Designers: Logo, doodle, UX/UI improvements etc.
 - Foodies: Chatting about what features you itch most in food related apps
+
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
