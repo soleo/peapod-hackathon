@@ -16,6 +16,7 @@ Hackathon Ideas in Peapod
 - [ ] PodProd Wi-Fi configuration on Raspberry PI
 - [ ] Alfred workflow for initiating deployments
 - [ ] Driver's real time routing visualization from Road Net
+- [ ] SQL Query Results Export CLI (Util Tool)
 - [ ] Custom dashboard for splunk logs on Raspberry PI
 - [ ] Deploy automation scripts for Release Notes, and post to Slack and related mail lists
 - [ ] Google Assistant for adding order to Peapod
@@ -34,10 +35,6 @@ Hackathon Ideas in Peapod
 - [ ] Desktop integration, Electron-based or otherwise
 - [ ] Peapod ordering server (another way to integrate Peapod stuff)
 - [ ] Kitchen status service (has something gone bad, etc.)
-
-## Open Collective 
-
-we use [opencollective](https://opencollective.com/learn-more) to disclose all our financial records. Check it our on [https://opencollective.com/peapod-hackathon](https://opencollective.com/peapod-hackathon).
 
 ## How to contribute
 
