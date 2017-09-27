@@ -2,6 +2,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 # Peapod Hackathon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soleo/peapod-hackathon.svg)](https://greenkeeper.io/)
+
 Hackathon Ideas in Peapod. 
 
 ## When
