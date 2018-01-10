@@ -23,14 +23,14 @@ Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try
 - [ ] PodProd Wi-Fi configuration on Raspberry PI
 - [ ] Alfred workflow for initiating deployments
 - [ ] Driver's real time routing visualization from Road Net
-- [ ] SQL Query Results Export CLI (Util Tool)
+- [WIP] SQL Query Results Export CLI (Util Tool)
 - [ ] Test Data Loader CLI (Util Tool)
 - [ ] Custom dashboard for splunk logs on Raspberry PI
-- [ ] Deploy automation scripts for Release Notes, and post to Slack and related mail lists
+- [X] Deploy automation scripts for Release Notes, and post to Slack and related mail lists
 - [ ] Google Assistant for adding order to Peapod
-- [ ] Peapod CLI, a hacky way to order from Peapod
-- [ ] Web Interface to Peapod CLI - terminal web emulator to CLI
-- [ ] Peapod Tinder-like Product Preference App (B2B)
+- [WIP] Peapod CLI, a hacky way to order from Peapod
+- [X] Web Interface to Peapod CLI - terminal web emulator to CLI
+- [WIP] Peapod Tinder-like Product Preference App (B2B) Peapod Swipe
 - [ ] Selenium smoke test for Peapod app
 - [ ] Peapod search term, failed finds, etc. wordcloud visualization
 - [ ] Peapod app (Dynamo) specific dead code finder
@@ -40,7 +40,7 @@ Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try
 - [ ] Assisted development environment setup (think Ninite but curses-based)
 - [ ] Kotlin-based mobile app (if possible)
 - [ ] Wifi-based context service (when device connects to wifi, do a thing)
-- [ ] Desktop integration, Electron-based or otherwise
+- [X] Desktop integration, Electron-based or otherwise
 - [ ] Peapod ordering server (another way to integrate Peapod stuff)
 - [ ] Kitchen status service (has something gone bad, etc.)
 
