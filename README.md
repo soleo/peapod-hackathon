@@ -5,25 +5,11 @@
 Hackathon Ideas in Peapod. 
 
 ## When
-We are going to have a regular schedule for the hackathon event. The event will be hosted every Monday in [Peapod Propulsion Lab 9th Floor, The Loop](https://foursquare.com/v/peapod-propulsion-labs/526aba5e11d27edb8ead6088) if there is no cancellation notification. 
+We are going to have a regular schedule for the hackathon event. The event will be hosted every Tuesday in [Peapod Propulsion Lab 9th Floor, The Loop](https://foursquare.com/v/peapod-propulsion-labs/526aba5e11d27edb8ead6088) if there is no cancellation notification. 
 
 ## How
 
 Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try to demo it at the end of the Hackathon. No prizes, and no pressures. Just have fun , and show off your skills/ideas.  
-
-## Past Activities 
-
-- 3rd Hackathon
-    - Date: June 19nd, 2017 Monday 5:00 PM - 8:00 PM
-    - WIP: Peapod Swipe Protopying
- 
-- 2nd Hackathon
-    - Date: June 12nd, 2017 Monday 5:00 PM - 8:00 PM
-    - WIP: Peapod Swipe Protopying
-
-- 1st Hackathon 
-    - Date: May 24th, 2017 Wednesday 5:00 PM - 8:00 PM
-    - WIP: Peapod-CLI, SQLExport-cli, RoadNetVisualation
   
 ## List of ideas
 
@@ -50,6 +36,8 @@ Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try
 - [X] Desktop integration, Electron-based or otherwise
 - [ ] Peapod ordering server (another way to integrate Peapod stuff)
 - [ ] Kitchen status service (has something gone bad, etc.)
+- [ ] Daily/Weekly Profiling from Webpagetest to check critical path of our service as a external user
+
 
 ## How to contribute
 
