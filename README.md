@@ -5,7 +5,7 @@
 Hackathon Ideas in Peapod. 
 
 ## When
-We are going to have a regular schedule for the hackathon event. The event will be hosted every Tuesday in [Peapod Propulsion Lab 9th Floor, The Loop](https://foursquare.com/v/peapod-propulsion-labs/526aba5e11d27edb8ead6088) if there is no cancellation notification. 
+We are going to have a regular schedule for the hackathon event. The event will be hosted every Wednesday in Peapod HQ if there is no cancellation notification. 
 
 ## How
 
