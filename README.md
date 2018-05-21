@@ -13,21 +13,21 @@ Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try
   
 ## List of ideas
 
-- [ ] PodProd Wi-Fi configuration on Raspberry PI
+
 - [ ] Alfred workflow for initiating deployments
 - [ ] Driver's real time routing visualization from Road Net
-- [WIP] SQL Query Results Export CLI (Util Tool)
+- [ ] SQL Query Results Export CLI (Util Tool) [WIP by Andy]
 - [ ] Test Data Loader CLI (Util Tool)
 - [ ] Custom dashboard for splunk logs on Raspberry PI
 - [X] Deploy automation scripts for Release Notes, and post to Slack and related mail lists
 - [ ] Google Assistant for adding order to Peapod
-- [WIP] Peapod CLI, a hacky way to order from Peapod
+- [ ] Peapod CLI, a hacky way to order from Peapod [WIP by Marlon]
 - [X] Web Interface to Peapod CLI - terminal web emulator to CLI
-- [WIP] Peapod Tinder-like Product Preference App (B2B) Peapod Swipe
+- [ ] [Peapod Tinder-like Product Preference App (B2B) Peapod Swipe](https://github.com/soleo/peapod-swipe-ios) [WIP by soleo, andy, marlon and dan]
 - [ ] Selenium smoke test for Peapod app
 - [ ] Peapod search term, failed finds, etc. wordcloud visualization
 - [ ] Peapod app (Dynamo) specific dead code finder
-- [ ] Price comparison app
+- [ ] Price comparison app [WIP by Justin]
 - [ ] Non-ahold store receipts images convert to past purchase items 
 - [ ] Wasm-based toolchain/product
 - [ ] Assisted development environment setup (think Ninite but curses-based)
@@ -37,6 +37,7 @@ Pick any of ideas below or your own ideas, and hack it in 3 hour window, and try
 - [ ] Peapod ordering server (another way to integrate Peapod stuff)
 - [ ] Kitchen status service (has something gone bad, etc.)
 - [ ] Daily/Weekly Profiling from Webpagetest to check critical path of our service as a external user
+- [ ] Check if any splash page has invalid links meaning zero search results
 
 
 ## How to contribute
